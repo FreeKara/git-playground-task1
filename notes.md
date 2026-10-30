@@ -8,3 +8,5 @@ Er zijn twee wijzigingen ten opzichte van de laatste commit:
 Onbedoelde wijzigingen: ik zie er geen. Er is geen losse wijziging in een tweede bestand. Als je er een had willen toevoegen om te testen of Claude die vindt, is die er dus niet (meer). Alleen notes.js is aangepast.
 
 Wil je dat ik de samenvatting onder je voorspelling in notes.md zet en daarna op de branch read-repo commit en push?
+
+De aanpassingen zijn goed gezien
